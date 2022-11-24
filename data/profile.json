@@ -1,0 +1,181 @@
+{
+  "contact": {
+    "phone": "+15314847022",
+    "email": "shakyaejan@gmail.com",
+    "website": "",
+    "location": "Kathmandu, Nepal"
+  },
+  "skills": [
+    {
+      "title": "General",
+      "type": "percent",
+      "subskills": [
+        {
+          "name": "Machine Learning Researcher",
+          "percent": 40
+        },
+        {
+          "name": "Software Development",
+          "percent": 40
+        },
+        {
+          "name":"Android Development",
+          "percent":20
+        }
+      ]
+    },
+    {
+      "title": "Languages",
+      "type": "percent",
+      "subskills": [
+        {
+          "name": "Python",
+          "percent": 85
+        },
+        {
+          "name": "Javascript",
+          "percent": 80
+        },
+        {
+          "name": "Java",
+          "percent": 70
+        }
+      ]
+    },
+    {
+      "title": "Frameworks",
+      "type": "tag",
+      "subskills": [
+        {
+          "name": "Tensorflow/Keras"
+        },
+        {
+          "name": "OpenCV"
+        },
+        {
+          "name": "Shell Scripting"
+        },
+        {
+          "name": "React"
+        },
+        {
+          "name": "Node"
+        },
+        {
+          "name": "Flask"
+        },
+        {
+          "name": "Express"
+        }
+      ]
+    },
+    {
+      "title": "Software",
+      "type": "tag",
+      "subskills": [
+        {
+          "name": "Microsoft Office Suite"
+        },
+        {
+          "name": "Adobe Photoshop"
+        }
+      ]
+    },
+    {
+      "title": "Databases",
+      "type": "tag",
+      "subskills": [
+        {
+          "name": "Postgresql"
+        },
+        {
+          "name": "MySQL"
+        },
+        {
+          "name": "Firebase"
+        },
+        {
+          "name": "MSSQL"
+        }
+      ]
+    }
+  ],
+  "summary": "Software Engineer with 3+ years of experience delivering state-of-the-art software/web applications to high-value clients. Pursuing a Master's degree in Computer Science with a concentration on Artificial Intelligence and Machine Learning. Seeking summer internship for 2023 in Data Science and ML domain.",
+  "education": [
+    {
+      "institution": "University Of Nebraska, Omaha",
+      "degree": "Masters in Computer Science (AI)",
+      "start": "2022",
+      "end": "2024"
+    },
+    {
+      "institution": "Kathmandu University, Nepal",
+      "degree": "Bachelors in Computer Engineering",
+      "start": "2015",
+      "end": "2019"
+    }
+  ],
+  "experience": [
+     {
+      "role": "Research Assistant",
+      "company": "University of Nebraska Omaha",
+      "description": "Research based on Deep Learning, Computer Vision, and Natural Language Processing, on biofilm publications, to develop a multi-modal domain-specific document classification framework",
+      "start": "08/2022",
+      "end": ""
+    },
+    {
+      "role": "Software Engineer",
+      "company": "LIS Nepal Pvt. Ltd.",
+      "description": "Led the development team and was involved in feature development for an in-house project management automation tool and compliance management tool for an international clienteles",
+      "start": "06/2020",
+      "end": "07/2022"
+    },
+    {
+      "role": "Associate Software Engineer",
+      "company": "LIS Nepal Pvt. Ltd",
+      "description": "Developed and Maintained solution for XStore and React Project",
+      "start": "09/2019",
+      "end": "06/2020"
+    },
+    {
+      "role": "Software Development Intern",
+      "company": "LIS Nepal Pvt. Ltd.",
+      "description": "Trained in Retail and developing POS systems",
+      "start": "06/2019",
+      "end": "09/2018"
+    }
+  ],
+  "social": [
+    {
+      "service": "linkedin",
+      "url": "https://www.linkedin.com/in/ejan-shakya-330745157/"
+    },
+    {
+      "service": "github",
+      "url": "https://github.com/Ezan"
+    }
+  ],
+  "role": "",
+  "projects": [
+    {
+      "name": "Nepali Braille",
+      "company": "",
+      "description": "A hardware based android application which allows users to learn braille in Devanagari script using tactile buttons and voice output through an android device. Used Arduino, Android studio, Java.",
+      "link": "https://github.com/Ezan/ArduinoBraille-master"
+    }, 
+    {
+      "name": "YouTube Comment Sentiment Analysis",
+      "company": "",
+      "description": "A web application developed in Flask, designed to interpret YouTube comments on user-fed videos and determine the overall sentiment/reaction of its viewers. Used Python, Flask, Scikit-learn, Natural Language toolkit, etc.",
+      "link": "https://github.com/Ezan/YouTube-Comment-Senitiment-Analysis"
+    },
+    {
+      "name": "Missionary and Cannibal Game",
+      "company": "",
+      "description": "An interactive visualization of the infamous Missionary and Cannibal puzzle. Used Python, PyGame, Graphvi, pyDotplus",
+      "link": "https://github.com/Ezan/Missionaries-and-Cannibals"
+    }
+    
+  ],
+  "fullname": "Ejan Shakya"
+}
